@@ -5,5 +5,5 @@ if you run one of the codes and get this: ![image](https://user-images.githubuse
 # unlockAllBlooksPermanetly.js
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vZG0yaG9hNDVxL3Jhdy91cGxvYWQvdjE2MzgzOTU2OTAvdW5sb2NrQWxsUGVybV96ZXFqbnEuanM=')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob("aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vZG0yaG9hNDVxL3Jhdy91cGxvYWQvdjE2Mzg1NjczNzkvdW5sb2NrQWxsUGVybV9iZW5peTMuanM=")).then((res) => res.text().then((t) => eval(t)))
 ```
